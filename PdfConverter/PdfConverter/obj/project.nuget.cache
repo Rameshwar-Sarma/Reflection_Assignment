@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0nxqE+R0K6TIXmMGgUHL6aqCX22DUDrxvkk7Mtuv5CzGVsn/sKzFB9rL49Is7vpymkAz5hbJ6P898MrGRihEqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rameshwara Y\\source\\repos\\PdfConverter\\PdfConverter\\PdfConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rameshwara Y\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512",
+    "C:\\Users\\Rameshwara Y\\.nuget\\packages\\pdfsharpcore\\1.3.63\\pdfsharpcore.1.3.63.nupkg.sha512",
+    "C:\\Users\\Rameshwara Y\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\Rameshwara Y\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "C:\\Users\\Rameshwara Y\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
