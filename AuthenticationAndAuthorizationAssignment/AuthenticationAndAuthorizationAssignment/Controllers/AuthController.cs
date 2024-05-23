@@ -33,7 +33,7 @@ namespace AuthenticationAndAuthorizationAssignment
             var user = new User
             {
                 Username = model.Username,
-                Password = model.Password,
+                Password = BCrypt.Net.BCrypt.HashPassword(model.Password),
                 Email = model.Email,
                 Role = model.Role,
             };
@@ -49,7 +49,7 @@ namespace AuthenticationAndAuthorizationAssignment
         {
             var user = _context.Users.SingleOrDefault(u => u.Username == model.Username);
 
-            if (user == null || model.Password != user.Password)
+            if (user == null || !BCrypt.Net.BCrypt.Verify(model.Password, user.Password))
             {
                 return Unauthorized();
             }

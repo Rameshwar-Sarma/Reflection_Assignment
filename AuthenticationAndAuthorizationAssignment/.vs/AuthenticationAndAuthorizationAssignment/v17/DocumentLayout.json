@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|c:\\users\\rameshwara y\\source\\repos\\authenticationandauthorizationassignment\\authenticationandauthorizationassignment\\authenticationandauthorizationassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|solutionrelative:authenticationandauthorizationassignment\\authenticationandauthorizationassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\authenticationandauthorizationassignment\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|solutionrelative:authenticationandauthorizationassignment\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|c:\\users\\rameshwara y\\source\\repos\\authenticationandauthorizationassignment\\authenticationandauthorizationassignment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|solutionrelative:authenticationandauthorizationassignment\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|c:\\users\\rameshwara y\\source\\repos\\authenticationandauthorizationassignment\\authenticationandauthorizationassignment\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\authenticationandauthorizationassignment\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|solutionrelative:authenticationandauthorizationassignment\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\authenticationandauthorizationassignment\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|solutionrelative:authenticationandauthorizationassignment\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\authenticationandauthorizationassignment\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|solutionrelative:authenticationandauthorizationassignment\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\authenticationandauthorizationassignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\authenticationandauthorizationassignment\\authenticationandauthorizationassignment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|solutionrelative:authenticationandauthorizationassignment\\authenticationandauthorizationassignment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\authenticationandauthorizationassignment\\authenticationandauthorizationassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|solutionrelative:authenticationandauthorizationassignment\\authenticationandauthorizationassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB8DE480-2C5A-4EE4-A696-34851FE069CF}|AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj|C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Migrations\\20240521163709_AuthApiDbMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,32 +63,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Models\\LoginModel.cs",
-              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\Models\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T14:32:59.046Z",
+              "WhenOpened": "2024-05-21T15:45:34.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Models\\User.cs",
-              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Models\\User.cs",
-              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\Models\\User.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA0AAAAIAAAA",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T15:42:53.211Z",
+              "WhenOpened": "2024-05-21T15:39:02.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:13:49.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\appsettings.json",
+              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T14:57:15.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationAndAuthorizationAssignment.csproj",
+              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj",
+              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj",
+              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T14:55:30.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Program.cs",
               "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\Program.cs",
@@ -102,57 +141,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\Controllers\\BooksController.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAowFQAAAAZAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Models\\User.cs",
+              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\Models\\User.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T15:45:34.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAqwDkAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T15:39:02.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T15:13:49.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\appsettings.json",
-              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\appsettings.json",
-              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAgAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-21T14:57:15.039Z",
+              "WhenOpened": "2024-05-21T15:42:53.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Models\\LoginModel.cs",
+              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:32:59.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\Models\\Book.cs",
               "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\Models\\Book.cs",
@@ -173,11 +187,12 @@
               "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\Migrations\\20240521163709_AuthApiDbMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T16:37:09.521Z"
+              "WhenOpened": "2024-05-21T16:37:09.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AuthenticationAndAuthorizationAssignment.http",
               "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.http",
               "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.http",
@@ -185,19 +200,8 @@
               "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-05-21T15:14:40.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthenticationAndAuthorizationAssignment",
-              "DocumentMoniker": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj",
-              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj",
-              "ToolTip": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj",
-              "RelativeToolTip": "AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-21T14:55:30.526Z"
+              "WhenOpened": "2024-05-21T15:14:40.442Z",
+              "EditorCaption": ""
             }
           ]
         },

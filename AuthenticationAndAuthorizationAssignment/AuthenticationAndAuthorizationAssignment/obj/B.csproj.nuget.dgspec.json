@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj": {}
+    "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\B.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj": {
+    "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj",
-        "projectName": "AuthenticationAndAuthorizationAssignment",
-        "projectPath": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\B.csproj",
+        "projectName": "B",
+        "projectPath": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\B.csproj",
         "packagesPath": "C:\\Users\\Rameshwara Y\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\obj\\",
         "projectStyle": "PackageReference",

@@ -143,3 +143,4 @@ C:\Users\Rameshwara Y\source\repos\AuthenticationAndAuthorizationAssignment\Auth
 C:\Users\Rameshwara Y\source\repos\AuthenticationAndAuthorizationAssignment\AuthenticationAndAuthorizationAssignment\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Rameshwara Y\source\repos\AuthenticationAndAuthorizationAssignment\AuthenticationAndAuthorizationAssignment\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Rameshwara Y\source\repos\AuthenticationAndAuthorizationAssignment\AuthenticationAndAuthorizationAssignment\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rameshwara Y\source\repos\AuthenticationAndAuthorizationAssignment\AuthenticationAndAuthorizationAssignment\bin\Debug\net8.0\BCrypt.Net-Next.dll

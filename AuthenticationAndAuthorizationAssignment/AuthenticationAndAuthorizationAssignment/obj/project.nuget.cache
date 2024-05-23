@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mE/EBWgcftJROok+IG2a7KqLLao8gpRDD5W9RN7Jd8YlUwNRvUdBdu/5oWJEnmP6KxW9bo06HItKIuExpAbRnQ==",
+  "dgSpecHash": "phBVWwFzlA5d6149a5ItSjWg2+pslgNAsqOMLMZmMZkJz3PcGKrw4wF1YOO+sMrVAmAl2VZN6dZpG3memhEITg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rameshwara Y\\source\\repos\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment\\AuthenticationAndAuthorizationAssignment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rameshwara Y\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Rameshwara Y\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\Rameshwara Y\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Rameshwara Y\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Rameshwara Y\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.5\\microsoft.aspnetcore.authentication.jwtbearer.8.0.5.nupkg.sha512",
     "C:\\Users\\Rameshwara Y\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.5\\microsoft.aspnetcore.cryptography.internal.8.0.5.nupkg.sha512",
