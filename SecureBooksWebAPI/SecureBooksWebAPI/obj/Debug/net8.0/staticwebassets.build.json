@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BUWRIoRfb5U9rw7C6V+rlSpvvSbHke3YdKGDHFKvo5o=",
+  "Source": "SecureBooksWebAPI",
+  "BasePath": "_content/SecureBooksWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureBooksWebAPI", "SecureBooksWebAPI\SecureBooksWebAPI.csproj", "{ABBD387E-632A-469D-B824-2090E6950CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABBD387E-632A-469D-B824-2090E6950CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBD387E-632A-469D-B824-2090E6950CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBD387E-632A-469D-B824-2090E6950CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBD387E-632A-469D-B824-2090E6950CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44C12524-F161-4636-A2F0-E8267F9853AF}
+	EndGlobalSection
+EndGlobal

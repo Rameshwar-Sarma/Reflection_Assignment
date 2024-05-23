@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SecureBooksWebAPI.props" />
+</Project>
