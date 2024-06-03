@@ -13,7 +13,6 @@ namespace MinimalAPIAssignment.Models
         public required string ISBN { get; set; }
         public DateTime PublicationDate { get; set; }
         public int? AuthorId { get; set; }
-        [JsonIgnore]
         public Author? Author { get; set; }
     }
 }
