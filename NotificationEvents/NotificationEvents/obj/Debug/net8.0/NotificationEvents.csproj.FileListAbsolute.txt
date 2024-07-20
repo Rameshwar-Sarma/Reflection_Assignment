@@ -1,0 +1,15 @@
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\bin\Debug\net8.0\NotificationEvents.exe
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\bin\Debug\net8.0\NotificationEvents.deps.json
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\bin\Debug\net8.0\NotificationEvents.runtimeconfig.json
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\bin\Debug\net8.0\NotificationEvents.dll
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\bin\Debug\net8.0\NotificationEvents.pdb
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\obj\Debug\net8.0\NotificationEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\obj\Debug\net8.0\NotificationEvents.AssemblyInfoInputs.cache
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\obj\Debug\net8.0\NotificationEvents.AssemblyInfo.cs
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\obj\Debug\net8.0\NotificationEvents.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\obj\Debug\net8.0\NotificationEvents.sourcelink.json
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\obj\Debug\net8.0\NotificationEvents.dll
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\obj\Debug\net8.0\refint\NotificationEvents.dll
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\obj\Debug\net8.0\NotificationEvents.pdb
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\obj\Debug\net8.0\NotificationEvents.genruntimeconfig.cache
+C:\Users\Rameshwara Y\source\repos\NotificationEvents\NotificationEvents\obj\Debug\net8.0\ref\NotificationEvents.dll
