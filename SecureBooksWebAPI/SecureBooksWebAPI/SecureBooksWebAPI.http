@@ -1,6 +1,0 @@
-@SecureBooksWebAPI_HostAddress = http://localhost:5290
-
-GET {{SecureBooksWebAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
